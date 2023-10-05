@@ -1,1 +1,1 @@
-"# thorvg-rust" 
+# Rust Thorvg bindings
